@@ -18,7 +18,11 @@ timezone: Europe/Moscow
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
+<<<<<<< HEAD
 title: Ittoku13 # the main title
+=======
+title: Ittoku # the main title
+>>>>>>> cd29407 (Update _config.yml)
 
 tagline: Маленький личный блог # it will display as the sub-title
 
@@ -42,7 +46,11 @@ social:
   links:
     # The first element serves as the copyright owner's link
     #- https://twitter.com/username # change to your twitter homepage
+<<<<<<< HEAD
     - https://github.com/ittoku13 # change to your github homepage
+=======
+    - https://github.com/username # change to your github homepage
+>>>>>>> cd29407 (Update _config.yml)
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
